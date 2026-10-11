@@ -116,7 +116,7 @@ A web application for managing contact information through a user interface conn
 
 <div align="center">
 
-<a href="https://github.com/Hawa-codes">
+<a href="https://www.linkedin.com/in/hawa-adediran-24820a366/?isSelfProfile=true">
 <img src="https://img.shields.io/badge/GitHub-Hawa--codes-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
